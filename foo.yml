@@ -1,1 +1,1 @@
-foo: from foo props
+foo: "from foo props"
